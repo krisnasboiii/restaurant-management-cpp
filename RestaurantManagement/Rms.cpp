@@ -6,8 +6,8 @@ using namespace std;
 class admin
 {
 private:
-	string const username = "Santhosh";
-	string const password = "Reddy";
+	string const username = "Rohit";
+	string const password = "Rudatala";
 public:
 	admin()
 	{
